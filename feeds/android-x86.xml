@@ -1,4 +1,4 @@
 <toolchain>
-  <package name="boost" url="http://static.aldebaran.com/toolchain/android-x86/boost-android-x86-1.59.0-r1.zip" version="1.59.0-r1" />
-  <package name="openssl" url="http://static.aldebaran.com/toolchain/android-x86/openssl-1.0.2e-android-x86-r1.zip" version="1.0.2e-r1" />
+  <package name="boost" url="http://static.aldebaran.com/toolchains/android-x86/boost-android-x86-1.59.0-r1.zip" version="1.59.0-r1" />
+  <package name="openssl" url="http://static.aldebaran.com/toolchains/android-x86/openssl-1.0.2e-android-x86-r1.zip" version="1.0.2e-r1" />
 </toolchain>
