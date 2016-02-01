@@ -1,5 +1,5 @@
 <toolchain>
-  <package name="boost" version="1.59.0-r1" url="http://static.aldebaran.com/toolchains/android-arm/boost-android-arm-1.59.0-r1.zip" />
-  <package name="openssl" version="1.0.2-r1" url="http://static.aldebaran.com/toolchains/android-arm/openssl-1.0.2e-android-r1.zip" />
-  <packae name="qt" version="5.5.0" url="http://static.aldebaran.com/toolchains/android-arm/qt-android-5.5.0.zip" />
+  <package name="boost" url="http://static.aldebaran.com/toolchain/android-arm/boost-android-arm-1.59.0-r1.zip" version="1.59.0-r1" />
+  <package name="openssl" url="http://static.aldebaran.com/toolchain/android-arm/openssl-1.0.2e-android-r1.zip" version="1.0.2e-r1" />
+  <package name="qt" url="http://static.aldebaran.com/toolchain/android-arm/qt-android-5.5.0.zip" version="5.5.0" />
 </toolchain>
