@@ -1,0 +1,8 @@
+<toolchain>
+  <package name="boost" url="http://static.aldebaran.com/toolchain/win32-vs2013/boost-win32-vs2013-1.59.0-r2.zip" version="1.59.0-r2" />
+  <package name="openssl" url="http://static.aldebaran.com/toolchain/win32-vs2013/openssl-win32-vs2013-1.0.1p-r1.zip" version="1.0.1.p-r1" />
+  <package name="pthread" url="http://static.aldebaran.com/toolchain/win32-vs2013/pthread-win32-vs2013-2.8.0-r2.zip" version="2.8.0-r2" />
+  <package name="python" url="http://static.aldebaran.com/toolchain/win32-vs2013/python-win32-vs2013-2.7.10-r3.zip" version="2.7.10-r3" />
+  <package name="qt" url="http://static.aldebaran.com/toolchain/win32-vs2013/qt-win32-vs2013-5.4.0-r6.zip" version="5.4.0-r6" />
+  <package name="zlib" url="http://static.aldebaran.com/toolchain/win32-vs2013/zlib-win32-vs2013-1.2.3-r3.zip" version="1.2.3-r3" />
+</toolchain>
