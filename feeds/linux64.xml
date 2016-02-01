@@ -1,0 +1,5 @@
+<toolchain>
+  <package name="boost" url="http://static.aldebaran.com/toolchain/linux64/boost-linux64-1.59.0-r1.zip" version="1.59.0-r1" />
+  <package name="c++11" url="http://static.aldebaran.com/toolchain/linux64/c++11-linux-r7.zip" version="r7" />
+  <package name="openssl" url="http://static.aldebaran.com/toolchain/linux64/openssl-linux64-1.0.2-r2.zip" version="1.0.2-r2" />
+</toolchain>
