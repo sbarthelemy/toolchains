@@ -1,6 +1,6 @@
 <toolchain>
   <package name="boost" url="http://static.aldebaran.com/toolchains/mac64/boost-mac64-1.59.0-r1.zip" version="1.59.0-r1" />
-  <package name="c++11" url="http://static.aldebaran.com/toolchains/mac64/c++11-mac64-r3.zip" version="r3" />
+  <package name="cxx11" url="http://static.aldebaran.com/toolchains/mac64/cxx11-mac64-r1.zip" version="r1" />
   <package name="openssl" url="http://static.aldebaran.com/toolchains/mac64/openssl-mac64-1.0.2e-r1.zip" version="1.0.2e-r1" />
   <package name="python" url="http://static.aldebaran.com/toolchains/mac64/python-mac64-2.7.8-r2.zip" version="2.7.8-r2" />
 </toolchain>
